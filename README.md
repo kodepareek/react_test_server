@@ -15,3 +15,7 @@ sample calls you can make
 GET localhost:3000/products -> fetch list of all products in json
 
 POST localhost:3000/products -> create a new product
+
+# How to use this repo
+
+Simply clone this repo or download as zip
