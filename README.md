@@ -35,3 +35,4 @@ Your code will be judged on the basis of
 ## Additional points
 
 It will be convenient if you use functional react components
+Hello person reading this
